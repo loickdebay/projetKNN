@@ -1,0 +1,63 @@
+.chart-symbol {
+    -fx-background-color: CHART_COLOR_1;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+}
+.default-color1.chart-symbol {
+    -fx-background-color: CHART_COLOR_2;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-shape: null;
+}
+.default-color2.chart-symbol {
+    -fx-background-color: CHART_COLOR_3;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-shape: null;
+}
+.default-color3.chart-symbol {
+    -fx-background-color: CHART_COLOR_4;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-shape: null;
+}
+.default-color4.chart-symbol {
+    -fx-background-color: CHART_COLOR_5;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-shape: null;
+}
+.default-color5.chart-symbol {
+    -fx-background-color: CHART_COLOR_6;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-shape: null;
+}
+.default-color6.chart-symbol {
+    -fx-background-color: CHART_COLOR_7;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-shape: null;
+}
+.default-color7.chart-symbol {
+    -fx-background-color: CHART_COLOR_8;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-shape: null;
+}
+.default-color8.chart-symbol {
+    -fx-background-color: CHART_COLOR_9;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-shape: null;
+}
+.default-color9.chart-symbol {
+    -fx-background-color: CHART_COLOR_10;
+    -fx-background-radius: 5px;
+    -fx-padding: 5px;
+    -fx-shape: null;
+}
+
+
+
+
